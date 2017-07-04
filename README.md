@@ -1,1 +1,2 @@
-# Project-LAIA
+# Project LAWA
+Language And Writing Assistant
