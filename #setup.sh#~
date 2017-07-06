@@ -1,0 +1,3 @@
+sudo apt-get install subversion
+sudo pip install -U nltk
+sudo pip install -U numpy

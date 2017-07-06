@@ -1,0 +1,5 @@
+#
+# Daily messages
+#
+
+#create script that gets all words from wikitionary as a db so POS can be recorded
